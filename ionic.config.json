@@ -1,5 +1,7 @@
 {
   "name": "icl-stage-b",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
